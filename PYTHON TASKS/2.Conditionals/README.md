@@ -1,5 +1,7 @@
 # Python Conditionals
 
+In this folder are the programs where conditionals are mostly used:
+
 • Exercise 2.1: A program that asks for my age and returns a message 'you may pass' or 'you may not pass' depending on whether I am of legal age or not.
 
 • Exercise 2.2: A multiple-choice test program (multiple questions) that keeps track of the score and shows it to me at the end of all the questions.
